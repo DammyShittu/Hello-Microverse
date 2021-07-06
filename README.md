@@ -22,20 +22,25 @@ First Microverse Coding exercise to enable us understand how to:
 # Hosting Platform
 - Github
 
-👤 Author1
+👤 Author
 
 GitHub: @dammyShittu
+
 Twitter: @aded_shittu
+
 LinkedIn: linkedin.com/in/adedamola-shittu-3ab465172/
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
 Show your support
+
 Give a ⭐️ if you like this project!
 
 
 📝 License
+
 This project is MIT licensed.
